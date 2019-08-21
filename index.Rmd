@@ -1,7 +1,0 @@
----
-title: "index"
-author: "Nicole Sullivan"
-date: "8/21/2019"
-output: html_document
----
-hello!
